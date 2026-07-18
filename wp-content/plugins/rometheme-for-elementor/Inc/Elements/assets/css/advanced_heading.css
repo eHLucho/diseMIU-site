@@ -1,0 +1,115 @@
+.rkit-advanced-heading,
+.rkit-advanced-heading a {
+  display: inline-block;
+  position: relative;
+  -webkit-background-clip: text;
+  /* -webkit-text-fill-color: transparent; */
+  background-clip: text;
+  margin: 0;
+}
+.rkit-advanced-heading-wrapper {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.rkit-advanced-heading-wrapper::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: fit-content;
+  height: max-content;
+  text-align: left;
+  content: attr(data-background-text);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: black;
+}
+
+.rkit-advanced-heading-wrapper .rkit-advanced-heading {
+  /* line-height: unset; */
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.use-boxed-heading-enabled
+  .rkit-advanced-heading-wrapper
+  .rkit-advanced-heading {
+  display: inline-flex;
+}
+
+.use-boxed-heading-enabled
+  .rkit-advanced-heading-wrapper
+  .rkit-advanced-heading
+  .text-container {
+  display: inline-flex;
+}
+
+.use-boxed-heading-enabled .rkit-advanced-heading .text-container {
+  background-color: black;
+}
+
+.use-boxed-heading-enabled .rkit-advanced-heading .headline-container {
+  background-color: #00cea6;
+}
+
+.use-boxed-heading-enabled .rkit-advanced-heading .text {
+  background-color: white;
+}
+
+.use-boxed-heading-enabled .rkit-advanced-heading .headline-text {
+  background-color: white;
+}
+
+.rkit-advanced-heading span:not(.headline-container, .text-container) {
+  display: inline;
+  position: relative;
+  white-space: nowrap;
+  text-wrap: wrap;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.rkit-advanced-heading .text {
+  background-color: black;
+  text-decoration-color: black;
+}
+
+.rkit-advanced-heading .headline-text {
+  background-color: #00cea6;
+  text-decoration-color: #00cea6;
+}
+
+.use-boxed-heading-enabled .rkit-advanced-heading .headline-container {
+  display: inline-flex;
+}
+
+.animation-headline-gradient-enabled .headline-text,
+.animation-heading-gradient-enabled .text {
+  background-size: 400% 400%;
+  background-position: left top;
+  animation-name: gradient-animation;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  25% {
+    background-position: 100% 0%;
+  }
+  50% {
+    background-position: 50% 100%;
+  }
+  75% {
+    background-position: 0% 100%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

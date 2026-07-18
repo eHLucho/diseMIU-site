@@ -1,0 +1,88 @@
+{
+  "header_footer": {
+    "type": "free",
+    "icon": "rtmicon rtmicon-header-footer",
+    "name": "Header & Footer",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKit\\Themebuilder\\HeaderFooter",
+    "docsURL" : "https://support.rometheme.net/docs/romethemekit/theme-builder/"
+  },
+  "template": {
+    "type": "free",
+    "icon": "eicon-layout-settings",
+    "name": "Template Kits",
+    "status": true,
+    "category": "other",
+    "class": "RTMKit\\Modules\\Templatekits\\TemplatekitModule",
+    "docsURL" : "https://support.rometheme.net/docs/romethemekit/template-kits-library/how-to-installing-ezd_ampersand-import-template-library/"
+  },
+  "rtmicon": {
+    "type": "free",
+    "icon": "rtmicon rtmicon-romethemekit",
+    "name": "RTMIcon",
+    "status": true,
+    "category": "other",
+    "class": "RTMKit\\Modules\\RTMIcons\\RTMIconsModule"
+  },
+  "single_post": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-single-post",
+    "name": "Single Post",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKitPro\\Modules\\Themebuilder\\SinglePost"
+  },
+  "error_404": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-error-404",
+    "name": "404 Error Page",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKitPro\\Modules\\Themebuilder\\Kit404"
+  },
+  "archive_post": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-archive-post",
+    "name": "Archive Post",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKitPro\\Modules\\Themebuilder\\Archive"
+  },
+  "search": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-search",
+    "name": "Search Results",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKitPro\\Modules\\Themebuilder\\SearchResult"
+  },
+  "rtm_shop": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-woo-product",
+    "name": "RTM Shop",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMWoo\\Core\\Init",
+    "required" : "woocommerce/woocommerce.php",
+    "is_show": false
+  },
+  "archive_product": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-woo-product",
+    "name": "Archive Product",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKitPro\\Modules\\Themebuilder\\ArchiveProduct",
+    "required" : "woocommerce/woocommerce.php"
+  },
+  "single_product": {
+    "type": "pro",
+    "icon": "rtmicon rtmicon-woo-product",
+    "name": "Single Product",
+    "status": true,
+    "category": "themebuilder",
+    "class": "RTMKitPro\\Modules\\Themebuilder\\SingleProduct",
+    "required" : "woocommerce/woocommerce.php"
+  }
+}

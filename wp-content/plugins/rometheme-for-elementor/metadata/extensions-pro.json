@@ -1,0 +1,38 @@
+{
+  "customcursor": {
+    "name": "RTM Custom Cursor",
+    "icon": "rtmicon rtmicon-custom-cursor",
+    "classname": "Rkit_Custom_Cursor",
+    "status": true,
+    "type":"pro",
+    "category": "extension",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/rtmkit-custom-cursor/",
+    "previewURL" : "https://rometheme.net/plugins/rtmkit/elements/",
+    "notes":"link official cooming soon"
+  },
+  "stickycontent": {
+    "name": "RTM Sticky Content",
+    "icon": "rtmicon rtmicon-advanced-sticky",
+    "classname": "Rkit_Sticky_Content",
+    "status": true,
+    "type":"pro",
+    "category": "extension",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/rtmkit-advanced-sticky/",
+    "previewURL" : "https://rometheme.net/plugins/rtmkit/elements/",
+    "notes":"link official cooming soon"
+  },
+  "text_animation" : {
+    "name": "RTM Text Animation",
+    "icon": "eicon-animation-text",
+    "classname": "Rkit_Text_Animation",
+    "status": true,
+    "type":"pro",
+    "category": "gsap",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/rtmkit-text-animation/",
+    "previewURL" : "https://rometheme.net/plugins/rtmkit/elements/",
+    "notes":"link official cooming soon"
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "postcarousel": {
+    "name": "Post Carousel",
+    "widget_name": "rkit-post_carousel",
+    "icon": "rtmicon rtmicon-post-carousel",
+    "class_name": "Rkit_Post_Carousel",
+    "category": "post",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-post-carousel-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/post-carousel/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L",
+    "scripts": {
+      "css": "post_carousel.css",
+      "js": "post_carousel.js"
+    }
+  },
+  "pricingbox": {
+    "name": "Pricing Image Box",
+    "widget_name": "rkit-pricebox",
+    "icon": "rtmicon rtmicon-pricing-image-box",
+    "class_name": "Rkit_Pricebox",
+    "category": "marketing",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-pricing-image-box-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/pricing-image-box/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L",
+    "scripts": {
+      "css": "pricingbox.css",
+      "js": "pricing-image-box.js"
+    }
+  },
+  "pricelist": {
+    "name": "Pricing List",
+    "widget_name": "rkit-price-list",
+    "icon": "rtmicon rtmicon-price-list",
+    "class_name": "Rkit_Price_List",
+    "category": "marketing",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-pricing-list-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/price-list/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L",
+    "scripts": {
+      "css": "price_list.css",
+      "js": ""
+    }
+  },
+  "imagemarquee": {
+    "name": "Image Marquee",
+    "widget_name": "rkit-image_marquee",
+    "icon": "rtmicon rtmicon-image-marquee",
+    "class_name": "Rkit_Imagemarquee",
+    "category": "showcase",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-image-marquee-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/image-marquee/",
+    "videoURL": "https://youtu.be/BDXY0FCe_2U?si=vu5zyfUkGotcjm1f",
+    "scripts": {
+      "css": "image_marquee.css",
+      "js": "image_marquee.js"
+    }
+  },
+  "textual_showcase": {
+    "name": "Textual Showcase",
+    "widget_name": "rkit-textual_showcase",
+    "icon": "eicon-animation-text",
+    "class_name": "Rkit_Textual_Showcase",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-textual-showcase-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/textual-showcase/",
+    "videoURL": "https://youtu.be/7PqkbvCWCks?si=aeHTdHzVJFa1Aip9",
+    "scripts": {
+      "css": "textual_showcase.css",
+      "js": "textual_showcase.js"
+    }
+  },
+  "advancedtoggle": {
+    "name": "Advanced Toggle",
+    "widget_name": "rkit-advanced-toggle",
+    "icon": "rtmicon rtmicon-advanced-toggle",
+    "class_name": "Rkit_Advanced_Toggle",
+    "category": "bussiness",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-advanced-toogle-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/advanced-toggle/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L",
+    "scripts": {
+      "css": "advanced_toggle.css",
+      "js": "advanced_toggle.js"
+    }
+  },
+  "interactivelinks": {
+    "name": "Interactive Links",
+    "widget_name": "rkit-interactive_links",
+    "icon": "rtmicon rtmicon-interactive-link",
+    "class_name": "Rkit_Interactive_Links",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-interactive-link-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/interactive-link/",
+    "videoURL": "https://youtu.be/7ZPcQ52HARE?si=sq2KbWYRauoVMVYD",
+    "scripts": {
+      "css": "interactive_links.css",
+      "js": "interactive_links.js"
+    }
+  },
+  "animated_circle_button": {
+    "name": "Animated Circle Button",
+    "widget_name": "rtm-animated_circle_button",
+    "icon": "rtmicon rtmicon-animated-circle-button",
+    "class_name": "Rkit_Animated_Circle_Button",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/animated-circle-button/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/animated-circle-button/",
+    "videoURL": "https://youtu.be/pT0XQ5VuNCg?si=fbxrqeN_IwhiFlc6",
+    "scripts": {
+      "css": "animated_circle_button.css",
+      "js": ""
+    }
+  },
+  "image_stack": {
+    "name": "Image Stack Info",
+    "widget_name": "rtm-image_stack",
+    "icon": "rtmicon rtmicon-image-stack-info",
+    "class_name": "Rkit_Image_Stack",
+    "category": "showcase",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/image-stack-info-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/image-stack-info/",
+    "videoURL": "https://youtu.be/RfRB2Y4X2EM?si=tsW6EhngT_vDjxTq",
+    "scripts": {
+      "css": "image_stack.css",
+      "js": ""
+    }
+  },
+  "rkit_breadcrumb": {
+    "name": "Breadcrumb",
+    "widget_name": "rkit_breadcrumb",
+    "icon": "rtmicon rtmicon-breadcumb",
+    "class_name": "Rkit_Breadcrumb",
+    "category": "header",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/breadcrumb-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/breadcrumb/",
+    "videoURL": "https://youtu.be/uG93n2M5az8?si=k0umXlm7EKnrRS3s",
+    "scripts": {
+      "css": "breadcrumbs.css",
+      "js": ""
+    }
+  },
+  "imagehotspot": {
+    "name": "Image Hotspot",
+    "widget_name": "rkit_image_hotspot",
+    "icon": "rtmicon rtmicon-image-hotspot",
+    "class_name": "Rkit_Image_Hotspot",
+    "category": "showcase",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/image-hotspot-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/image-hotspot/",
+    "videoURL": "https://youtu.be/M1mysscCjaQ?si=Dazxx-0NHjUSHlI5",
+    "scripts": {
+      "css": "image_hotspot.css",
+      "js": "image_hotspot.js",
+      "lib": [
+        "popper.min.js",
+        "tippy-bundle.umd.min.js"
+      ]
+    }
+  },
+  "client_carousel": {
+    "name": "Client Carousel",
+    "widget_name": "rkit_client_carousel",
+    "icon": "rtmicon rtmicon-client-carousel",
+    "class_name": "Rkit_Logocaraosel",
+    "category": "bussiness",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-logo-carousel-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/client-carousel/",
+    "videoURL": "https://youtu.be/F-ZkxZMmapE?si=xy5wd0pKmSAxECyN",
+    "scripts": {
+      "css": "client_carousel.css",
+      "js": "client_carousel.js"
+    }
+  },
+  "team_carousel": {
+    "name": "Team Carousel",
+    "widget_name": "rtm-team_carousel",
+    "icon": "rtmicon rtmicon-team-carousel",
+    "class_name": "TeamCarousel",
+    "category": "bussiness",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/widgets/team-carousel-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/team-carousel/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L",
+    "notes": "link official cooming soon",
+    "is_new": true,
+    "scripts": {
+      "css": "team_carousel.css",
+      "js": "team_carousel.js"
+    }
+  },
+  "woo_product_carousel": {
+    "name": "Woo Product Carousel",
+    "widget_name": "rkit-woo_product_carousel",
+    "icon": "rtmicon rtmicon-product-carousel",
+    "class_name": "ProductCarousel",
+    "category": "marketing",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/widgets/woo-product-carousel-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/woo-product-carousel/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L",
+    "notes": "link official cooming soon",
+    "is_new": true,
+    "plugin_required": "woocommerce",
+    "scripts": {
+      "css": "woo_product_carousel.css",
+      "js": "woo_product_carousel.js"
+    }
+  },
+  "background_switcher": {
+    "name": "Background Switcher",
+    "widget_name": "rkit_background_switcher",
+    "icon": "rtmicon rtmicon-image-accordion",
+    "class_name": "Rkit_Background_Switcher",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/background-switcher-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/background-switcher/",
+    "videoURL": "https://youtu.be/BDXY0FCe_2U?si=vu5zyfUkGotcjm1f",
+    "scripts": {
+      "css": "background_switcher.css",
+      "js": "background_switcher.js"
+    }
+  },
+  "advanced_category": {
+    "name": "Advanced Categories",
+    "widget_name": "rkit-advanced_category",
+    "icon": "rtmicon rtmicon-team-carousel",
+    "class_name": "Rkit_Advanced_Category",
+    "category": "post",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/advanced-categories/",
+    "previewURL": "",
+    "videoURL": "",
+    "notes": "link official cooming soon",
+    "is_new": true,
+    "scripts": {
+      "css": "advanced-category.css",
+      "js": "advanced-category.js"
+    }
+  },
+  "dynamic_field": {
+    "name": "Dynamic Field",
+    "widget_name": "rkit-dynamic_field",
+    "icon": "rtmicon rtmicon-team-carousel",
+    "class_name": "Rkit_Dynamic_Field",
+    "category": "post",
+    "status": true,
+    "type": "pro",
+    "docsURL": "",
+    "previewURL": "",
+    "videoURL": "",
+    "notes": "link official cooming soon",
+    "is_new": true,
+    "scripts": {
+      "css": "dynamic-field.css",
+      "js": ""
+    }
+  }
+}

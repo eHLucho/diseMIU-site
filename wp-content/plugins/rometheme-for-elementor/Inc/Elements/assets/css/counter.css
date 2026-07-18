@@ -1,0 +1,65 @@
+.rkit-counter {
+    display: flex;
+}
+
+.rkit-counter .odometer-container {
+    font-weight: 600;
+    font-size: 3rem;
+    display: inline-flex;
+    line-height: 1;
+}
+
+.rkit-counter .rkit-counter-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+
+.rkit-counter-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: fit-content;
+}
+
+.rkit-counter-container .odometer {
+    font-variant-numeric: tabular-nums !important;
+    -moz-font-feature-settings: "tnum" !important;
+    -webkit-font-feature-settings: "tnum" !important;
+    font-feature-settings: "tnum" !important;
+}
+
+/* 
+.rkit-counter-container .odometer-digit, .rkit-counter-container .odometer-digit span {
+    text-align: center !important;
+} */
+
+.rkit-counter .counter-title {
+    font-size: 1rem;
+}
+
+.rkit-counter .counter-icon-container {
+    width: fit-content;
+}
+
+.rkit-counter svg.counter-icon {
+    width: 4rem;
+    height: 4rem;
+    display: block;
+    fill: #00cea6;
+}
+
+.rkit-counter i.counter-icon {
+    font-size: 4rem;
+    color: #00cea6;
+}
+
+.rkit-counter .prefix_number,
+.rkit-counter .suffix_number {
+    display: inline-flex;
+    align-items: baseline;
+    line-height: 1;
+}

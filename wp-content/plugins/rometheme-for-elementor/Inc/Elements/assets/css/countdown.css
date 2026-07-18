@@ -1,0 +1,282 @@
+.rkit-countdown-widget {
+    background-color: var(--section-background, transparent);
+    color: var(--text-color, #000);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Digital-7', sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+/*  */
+ 
+#countdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* gap: 10px;  */
+}
+
+.countdown-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.countdown-top-row {
+  /* font-size: 32px; */
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.countdown-label {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.countdown-separator {
+  font-size: 32px;
+  font-weight: bold;
+  align-self: center;
+  line-height: 1;
+  margin: 0 5px;
+}
+
+/*  */
+.countdown-title-wrapper{
+    margin-bottom : -20px;
+}
+
+.rkit-countdown-widget .countdown-title {
+    color: var(--title-color, #000);
+    /* font-size: 2em;m */
+}
+ 
+
+.countdown_contain {
+    display: flex;    
+    flex-wrap: wrap;
+    gap : 10px;
+}
+
+
+.rkit-countdown-widget .countdown-section {
+    background-color: var(--section-background, transparent);
+    padding: 20px 10px;
+    border-radius: 5px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;  
+}
+
+.rkit-countdown-widget  .countdown-section-row {
+    background-color: var(--section-background, transparent);
+    padding: 20px 10px;
+    border-radius: 5px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;  
+    gap: 2.5px; 
+}
+
+.rkit-countdown-widget .countdown-label {
+    font-size: 1em;
+    color: #00CEA6;  
+    height: 100%; 
+    display: flex; 
+    align-self: center !important;
+    align-items: center;
+}
+.time_sett{
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-size: 90px;
+}
+
+.hidden {
+    display: none;
+}
+
+.countdown-section-container {
+    display: flex;
+    gap: 10px;
+}
+
+.rkit-countdown-separator .countdown_contain .countdown-section-container:not(:first-child)::before {
+    content: ":";
+    font-size: 90px;
+    display: inline-flex;
+    line-height: 1;
+    align-items: center;
+    margin: -40px 0px 0px 0px;
+}
+
+@media (max-width: 600px) {
+    #countdown {
+        flex-wrap: wrap; 
+        justify-content: center; 
+    }
+}
+
+.flip-clock {
+  text-align: center;
+  perspective: 400px;
+  margin: 20px auto;
+}
+.flip-clock *,
+.flip-clock *:before,
+.flip-clock *:after {
+  box-sizing: border-box;
+}
+.flip-clock__piece {
+  display: flex;
+  flex-direction: column;
+  margin: 0 5px;
+}
+.flip-clock__slot {
+  font-size: 2vw;
+}
+.flip-clock__card.card {
+  --card-bottom-b-color: #333;
+  display: block;
+  position: relative;
+  padding-bottom: 0.72em;
+  font-size: 9vw;
+  line-height: 0.95;
+  color: #333;
+  overflow: hidden;
+  border-radius: 0.15em;
+}
+
+.card__top,
+.card__bottom,
+.card__back::before,
+.card__back::after {
+  display: block;
+  height: 0.72em;
+  color: inherit;
+  background: #00CEA6;
+  padding: 0.25em 0.25em;
+  /* border-radius: 0.15em 0.15em 0 0; */
+  backface-visiblity: hidden;
+  transform-style: preserve-3d;
+  width: 1.8em;
+  transform: translateZ(0);
+  filter: brightness(0.95);
+}
+.card__bottom {
+  color: inherit;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  /* border-top: solid 1px var(--card-bottom-b-color); */
+  background: #00CEA6;
+  /* border-radius: 0 0 0.15em 0.15em; */
+  pointer-events: none;
+  overflow: hidden;
+  filter: brightness(1.1);
+}
+.card__bottom::after {
+  display: block;
+  margin-top: -0.72em;
+}
+.card__back::before,
+.card__bottom::after {
+  content: attr(data-value);
+}
+.card__back {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  left: 0%;
+  pointer-events: none;
+}
+.card__back::before {
+  position: relative;
+  z-index: -1;
+  overflow: hidden;
+}
+.flip .card__back::before {
+  -webkit-animation: flipTop 0.3s cubic-bezier(0.37, 0.01, 0.94, 0.35);
+          animation: flipTop 0.3s cubic-bezier(0.37, 0.01, 0.94, 0.35);
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  transform-origin: center bottom;
+}
+.flip .card__back .card__bottom {
+  transform-origin: center top;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  -webkit-animation: flipBottom 0.6s cubic-bezier(0.15, 0.45, 0.28, 1);
+          animation: flipBottom 0.6s cubic-bezier(0.15, 0.45, 0.28, 1);
+}
+@-webkit-keyframes flipTop {
+  0% {
+    transform: rotateX(0deg);
+    z-index: 2;
+  }
+  0%,
+  99% {
+    opacity: 0.99;
+  }
+  100% {
+    transform: rotateX(-90deg);
+    opacity: 0;
+  }
+}
+@keyframes flipTop {
+  0% {
+    transform: rotateX(0deg);
+    z-index: 2;
+  }
+  0%,
+  99% {
+    opacity: 0.99;
+  }
+  100% {
+    transform: rotateX(-90deg);
+    opacity: 0;
+  }
+}
+@-webkit-keyframes flipBottom {
+  0%,
+  50% {
+    z-index: -1;
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+  51% {
+    opacity: 0.99;
+  }
+  100% {
+    opacity: 0.99;
+    transform: rotateX(0deg);
+    z-index: 5;
+  }
+}
+@keyframes flipBottom {
+  0%,
+  50% {
+    z-index: -1;
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+  51% {
+    opacity: 0.99;
+  }
+  100% {
+    opacity: 0.99;
+    transform: rotateX(0deg);
+    z-index: 5;
+  }
+}

@@ -1,0 +1,23 @@
+.rkit-piechart-container {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.rkit-piechart-container #pieChart {
+  width: 100%;
+  height: auto;
+  display: inline !important;
+}
+
+.rkit-piechart-container .piechart-wrapper {
+  flex: 1 0 auto;
+  width: 100%;
+}
+
+.rkit-piechart-container .rkit-piechart-description-container {
+    flex: 1 1 auto;
+    width: auto;
+    transition: all 0.5s ease;
+}

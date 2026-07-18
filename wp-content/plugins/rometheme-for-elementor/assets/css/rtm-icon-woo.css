@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'rtm-icon-woo';
+  src:  url('https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.eot?k5swzu');
+  src:  url('https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.eot?k5swzu#iefix') format('embedded-opentype'),
+    url('https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.ttf?k5swzu') format('truetype'),
+    url('https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.woff?k5swzu') format('woff'),
+    url('https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.svg?k5swzu#rtm-icon-woo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.rtmicon-product {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rtm-icon-woo' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  color: #00cea6;
+  font-size: 20px;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rtmicon-product.rtmicon-product-additional-information:before {
+  content: "\e900";
+}
+.rtmicon-product.rtmicon-product-add-to-cart:before {
+  content: "\e901";
+}
+.rtmicon-product.rtmicon-product-attributes:before {
+  content: "\e902";
+}
+.rtmicon-product.rtmicon-product-carousel:before {
+  content: "\e903";
+}
+.rtmicon-product.rtmicon-product-carousel-2:before {
+  content: "\e904";
+}
+.rtmicon-product.rtmicon-product-content:before {
+  content: "\e905";
+}
+.rtmicon-product.rtmicon-product-excerpt:before {
+  content: "\e906";
+}
+.rtmicon-product.rtmicon-product-featured-images:before {
+  content: "\e907";
+}
+.rtmicon-product.rtmicon-product-grid:before {
+  content: "\e908";
+}
+.rtmicon-product.rtmicon-product-grid-2:before {
+  content: "\e909";
+}
+.rtmicon-product.rtmicon-product-meta:before {
+  content: "\e90a";
+}
+.rtmicon-product.rtmicon-product-price:before {
+  content: "\e90b";
+}
+.rtmicon-product.rtmicon-product-rating:before {
+  content: "\e90c";
+}
+.rtmicon-product.rtmicon-product-reviews:before {
+  content: "\e90d";
+}
+.rtmicon-product.rtmicon-product-sale-badge:before {
+  content: "\e90e";
+}
+.rtmicon-product.rtmicon-product-share-link:before {
+  content: "\e90f";
+}
+.rtmicon-product.rtmicon-product-stock:before {
+  content: "\e910";
+}
+.rtmicon-product.rtmicon-product-tabs:before {
+  content: "\e911";
+}
+.rtmicon-product.rtmicon-product-title:before {
+  content: "\e912";
+}
+.rtmicon-product.rtmicon-product-upsells:before {
+  content: "\e913";
+}
+.rtmicon-product.rtmicon-related-product:before {
+  content: "\e914";
+}
+.rtmicon-product.rtmicon-woo-product-2:before {
+  content: "\e915";
+}

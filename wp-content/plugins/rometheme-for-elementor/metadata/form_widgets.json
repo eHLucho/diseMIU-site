@@ -1,0 +1,145 @@
+{
+  "submitbutton": {
+    "name": "Submit Button",
+    "icon": "rtmicon rtmicon-submit-button",
+    "class_name": "Rform_Button_Submit",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "checkbox": {
+    "name": "Checkbox",
+    "icon": "rtmicon rtmicon-checkbox",
+    "class_name": "Rform_Checkbox_Widget",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "number": {
+    "name": "Number",
+    "icon": "rtmicon rtmicon-number",
+    "class_name": "RTForm_Number",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "phone": {
+    "name": "Telephone",
+    "icon": "rtmicon rtmicon-telephone",
+    "class_name": "RForm_Phone",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "select": {
+    "name": "Select",
+    "icon": "rtmicon rtmicon-select",
+    "class_name": "RTForm_select",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "date": {
+    "name": "Date",
+    "icon": "rtmicon rtmicon-date-form",
+    "class_name": "RTForm_Date",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "email": {
+    "name": "Email",
+    "icon": "rtmicon rtmicon-email-form",
+    "class_name": "RTForm_Email",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "radiobtn": {
+    "name": "Radio Button",
+    "icon": "rtmicon rtmicon-radio",
+    "class_name": "Rform_Radio_Widget",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "text": {
+    "name": "Text",
+    "icon": "rtmicon rtmicon-text-form",
+    "class_name": "RTForm_Text",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "textarea": {
+    "name": "Text Area",
+    "icon": "rtmicon rtmicon-text-area-form",
+    "class_name": "RTForm_TextArea",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "time": {
+    "name": "Time",
+    "icon": "rtmicon rtmicon-time",
+    "class_name": "RTForm_Time",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-create-a-form-using-romethemeform/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "gdpr": {
+    "name": "GDPR Consent",
+    "icon": "rform-widget-icon rtmicon rtmicon-checkbox",
+    "class_name": "Rform_GDPR",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  },
+  "recaptcha": {
+    "name": "reCAPTCHA",
+    "icon": "eicon-captcha",
+    "class_name": "RFORM_ReCAPTCHA",
+    "category": "form",
+    "status": true,
+    "type": "form",
+    "docsURL": "https://support.rometheme.net/docs/romethemeform-for-elementor/widget-guidelines/how-to-add-captcha-to-a-form-for-better-security/",
+    "previewURL": "https://rometheme.net/plugins/rtmform/",
+    "videoURL": "https://www.youtube.com/playlist?list=PLiDcdRZHQZ651l9VnhbNG0lSvK-Nsah7L"
+  }
+}

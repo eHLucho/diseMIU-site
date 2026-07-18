@@ -1,0 +1,188 @@
+{
+  "postcarousel": {
+    "name": "Post Carousel",
+    "icon": "rtmicon rtmicon-post-carousel",
+    "class_name": "Rkit_Post_Carousel",
+    "category": "post",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-post-carousel-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/post-carousel/",
+    "scripts": {
+      "css": "post_carousel.css",
+      "js": "post_carousel.js"
+    }
+  },
+  "pricingbox": {
+    "name": "Pricing Image Box",
+    "icon": "rtmicon rtmicon-pricing-image-box",
+    "class_name": "Rkit_Pricebox",
+    "category": "marketing",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-pricing-image-box-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/pricing-image-box/",
+    "scripts": {
+      "css": "pricingbox.css",
+      "js": "pricing-image-box.js"
+    }
+  },
+  "pricelist": {
+    "name": "Pricing List",
+    "icon": "rtmicon rtmicon-price-list",
+    "class_name": "Rkit_Price_List",
+    "category": "marketing",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-pricing-list-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/price-list/",
+    "scripts": {
+      "css": "price_list.css",
+      "js": ""
+    }
+  },
+  "imagemarquee": {
+    "name": "Image Marquee",
+    "icon": "rtmicon rtmicon-image-marquee",
+    "class_name": "Rkit_Imagemarquee",
+    "category": "showcase",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-image-marquee-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/image-marquee/",
+    "scripts": {
+      "css": "image_marquee.css",
+      "js": "image_marquee.js"
+    }
+  },
+  "textual_showcase": {
+    "name": "Textual Showcase",
+    "icon": "eicon-animation-text",
+    "class_name": "Rkit_Textual_Showcase",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-textual-showcase-widget/",
+    "previewURL": "https://rometheme.net/widget-textual-showcase",
+    "scripts": {
+      "css": "textual_showcase.css",
+      "js": "textual_showcase.js"
+    }
+  },
+  "advancedtoggle": {
+    "name": "Advanced Toggle",
+    "icon": "rtmicon rtmicon-advanced-toggle",
+    "class_name": "Rkit_Advanced_Toggle",
+    "category": "bussiness",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-advanced-toogle-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/advanced-toggle/",
+    "scripts": {
+      "css": "advanced_toggle.css",
+      "js": "advanced_toggle.js"
+    }
+  },
+  "interactivelinks": {
+    "name": "Interactive Links",
+    "icon": "rtmicon rtmicon-interactive-link",
+    "class_name": "Rkit_Interactive_Links",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-interactive-link-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/interactive-link/",
+    "scripts": {
+      "css": "interactive_links.css",
+      "js": "interactive_links.js"
+    }
+  },
+  "animated_circle_button": {
+    "name": "Animated Circle Button",
+    "icon": "rtmicon rtmicon-animated-circle-button",
+    "class_name": "Rkit_Animated_Circle_Button",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/animated-circle-button/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/animated-circle-button/",
+    "scripts": {
+      "css": "animated_circle_button.css",
+      "js": ""
+    }
+  },
+  "image_stack": {
+    "name": "Image Stack Info",
+    "icon": "rtmicon rtmicon-image-stack-info",
+    "class_name": "Rkit_Image_Stack",
+    "category": "showcase",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/image-stack-info-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/image-stack-info/",
+    "scripts": {
+      "css": "image_stack.css",
+      "js": ""
+    }
+  },
+  "rkit_breadcrumb": {
+    "name": "Breadcrumb",
+    "icon": "rtmicon rtmicon-breadcumb",
+    "class_name": "Rkit_Breadcrumb",
+    "category": "header",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/breadcrumb-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/plugin/widget-test/breadcrumbs/",
+    "scripts": {
+      "css": "breadcrumbs.css",
+      "js": ""
+    }
+  },
+  "imagehotspot": {
+    "name": "Image Hotspot",
+    "icon": "rtmicon rtmicon-image-hotspot",
+    "class_name": "Rkit_Image_Hotspot",
+    "category": "showcase",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/image-hotspot-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/image-hotspot",
+    "scripts": {
+      "css": "image_hotspot.css",
+      "js": "image_hotspot.js",
+      "lib": [
+        "popper.min.js",
+        "tippy-bundle.umd.min.js"
+      ]
+    }
+  },
+  "client_carousel": {
+    "name": "Client Carousel",
+    "icon": "rtmicon rtmicon-client-carousel",
+    "class_name": "Rkit_Logocaraosel",
+    "category": "bussiness",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://support.rometheme.net/docs/romethemekit-pro-for-elementor/widget-pro-guidelines/how-to-use-ezd_ampersand-customize-logo-carousel-widget/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/widgets/cliend-carousel/",
+    "scripts": {
+      "css": "client_carousel.css",
+      "js": "client_carousel.js"
+    }
+  },
+  "background_switcher": {
+    "name": "Background Switcher",
+    "icon": "rtmicon rtmicon-background-switcher",
+    "class_name": "Rkit_Background_Switcher",
+    "category": "creative",
+    "status": true,
+    "type": "pro",
+    "docsURL": "https://rometheme.net/plugins/rtmkit/elements/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/elements/",
+    "scripts": {
+      "css": "background_switcher.css",
+      "js": "background_switcher.js"
+    }
+  }
+}

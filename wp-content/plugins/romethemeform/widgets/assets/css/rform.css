@@ -1,0 +1,103 @@
+.require-login {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: white;
+    border-radius: 5px;
+    border-left: solid 10px #ff0000;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    display: none;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    -webkit-animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
+    animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
+}
+
+
+
+.success-submit {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: white;
+    border-radius: 5px;
+    border-left: solid 10px #4CAF50;
+    /* padding-top: 0.5rem;
+    padding-bottom: 0.5rem; */
+    display: none;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    -webkit-animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
+    animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
+}
+
+.success-body,
+.require-msg-body {
+    display: flex;
+    align-items: center;
+    /* gap: 1rem; */
+    height: inherit;
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+}
+
+.success-body .success-title,
+.require-msg-body .required-title {
+    font-weight: bold ;
+    margin-bottom : 0px;
+}
+
+.success-submit button.close-msg {
+    background-color: transparent ;
+    color: gray ;
+    border: none ;
+    padding: 10px ;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    aspect-ratio: 1/1;
+    transition: all 0.5s;
+}
+
+.success-submit button.close-msg::before {
+    content: "✖";
+    line-height: 0;
+}
+
+.success-submit .close-msg:hover {
+    color: black ;
+    background-color: transparent ;
+}
+
+.success-submit .success-icon {
+    color: #4CAF50;
+    fill: #4CAF50;
+    margin-right: 1rem;
+}
+
+@-webkit-keyframes slide-bottom {
+    0% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slide-bottom {
+    0% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

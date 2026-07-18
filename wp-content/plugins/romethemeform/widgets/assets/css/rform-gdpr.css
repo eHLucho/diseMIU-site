@@ -1,0 +1,13 @@
+.rform-gdpr-container {
+    width: fit-content;
+    display: inline-flex;
+    align-items: center;
+}
+
+.rform-checkbox-gdpr .rform-gdpr-checbox {
+    display: inline-flex;
+}
+
+.rform-checkbox-gdpr .checkbox-gdpr {
+    display: none;
+}

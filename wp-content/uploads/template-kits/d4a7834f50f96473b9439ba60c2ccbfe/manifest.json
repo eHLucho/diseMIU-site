@@ -1,0 +1,2492 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Reboost - Social Media Management Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kits.rometheme.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.png",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Detail",
+            "screenshot": "screenshots\/portfolio-detail.png",
+            "source": "templates\/portfolio-detail.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/portfolio-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.jpg",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Blog",
+            "screenshot": "screenshots\/our-blog.jpg",
+            "source": "templates\/our-blog.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/our-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reboost - Subscribe Form",
+            "screenshot": "screenshots\/reboost-subscribe-form.jpg",
+            "source": "templates\/reboost-subscribe-form.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/reboost-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reboost - Contact Form",
+            "screenshot": "screenshots\/reboost-contact-form.jpg",
+            "source": "templates\/reboost-contact-form.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/reboost-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reboost - Footer",
+            "screenshot": "screenshots\/reboost-footer.jpg",
+            "source": "templates\/reboost-footer.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/reboost-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reboost - Header",
+            "screenshot": "screenshots\/reboost-header.jpg",
+            "source": "templates\/reboost-header.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/reboost-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reboost - Header offcanvas",
+            "screenshot": "screenshots\/reboost-header-offcanvas.jpg",
+            "source": "templates\/reboost-header-offcanvas.json",
+            "preview_url": "https:\/\/kits.rometheme.net\/reboost\/template-kit\/reboost-header-offcanvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.28.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "RomethemeForm",
+            "version": "1.2.1",
+            "file": "romethemeform\/rometheme-form.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "RomethemeKit For Elementor",
+            "version": "1.5.6",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Image-Background.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Image-Background-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 43325,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/reboost-header-offcanvas.json",
+                    "name": "Reboost - Header offcanvas"
+                }
+            ],
+            "filesize": 10579,
+            "dimensions": [
+                407,
+                406
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4390,
+            "dimensions": [
+                216,
+                182
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-1-1.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-1-1-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 61260,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "partner-black-2.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 20058,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-black-1.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 15045,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-black-4.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 19696,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-black-3.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 10197,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-black-6.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 15271,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-black-5.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 12231,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-black-7.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-black-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 12338,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-2.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 20393,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-1.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 15045,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-4.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 19788,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-3.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 10128,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-5.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 14520,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-6.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 15261,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "partner-white-7.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/partner-white-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 12451,
+            "dimensions": [
+                350,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-2.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-2-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 235478,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "reviewer-1.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/reviewer-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 121482,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "reviewer-3.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/reviewer-3.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 88762,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "reviewer-2.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/reviewer-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 156116,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-3.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-3-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 110470,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-4.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-4-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 198182,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-5.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-5-800x800.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 38086,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-25.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-25-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 68216,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-17.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-17-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 45468,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-20.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-20-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 78578,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-6.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-6-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 122258,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-7.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 240187,
+            "dimensions": [
+                765,
+                137
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-8.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-8-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 121496,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "LANYARD-A.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/LANYARD-A-800x921.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 81618,
+            "dimensions": [
+                1303,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Business_Card_Mockup.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Business_Card_Mockup-800x921.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 148999,
+            "dimensions": [
+                1303,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-9-1.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-9-1-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 35402,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-10-1.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-10-1-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                }
+            ],
+            "filesize": 152658,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Psd-2.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Psd-2-800x921.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 142152,
+            "dimensions": [
+                1303,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-14.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-14-800x1200.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 65894,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-15.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-15-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 34118,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6164,
+            "dimensions": [
+                348,
+                124
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 11681,
+            "dimensions": [
+                738,
+                385
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1615,
+            "dimensions": [
+                238,
+                239
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-10.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                }
+            ],
+            "filesize": 842,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-11.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                }
+            ],
+            "filesize": 5005,
+            "dimensions": [
+                158,
+                90
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                238,
+                226
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-21.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-21-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 92926,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-7.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1263,
+            "dimensions": [
+                176,
+                176
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-22.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-22-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 73822,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Curve-Text-Img.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Curve-Text-Img.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/reboost-footer.json",
+                    "name": "Reboost - Footer"
+                }
+            ],
+            "filesize": 80231,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-8.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2393,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-23.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-23-800x1200.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 96124,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-1.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 102211,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-2.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 78287,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-3.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 91461,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-4.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 82098,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-24.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-24-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 59832,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-26.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-26-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 89516,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-27.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-27-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 81710,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-28.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-28-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 97074,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-29.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-29-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 55402,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-30.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-30-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 33484,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-31.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-31-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 74372,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Psd-4.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Psd-4-800x921.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 128829,
+            "dimensions": [
+                1303,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Psd-1.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Psd-1-800x921.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 205509,
+            "dimensions": [
+                1303,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "LANYARD-B.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/LANYARD-B-800x920.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 150924,
+            "dimensions": [
+                1304,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Shoe-Box-Mock-Up-Potrait.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Shoe-Box-Mock-Up-Potrait-800x921.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 148699,
+            "dimensions": [
+                1303,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Psd-1-Recovered.jpg",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Psd-1-Recovered-800x1420.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 116828,
+            "dimensions": [
+                845,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-36.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-36-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                }
+            ],
+            "filesize": 240362,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-37.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-37-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 102490,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-5.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 58708,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-6.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-6.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 72952,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-7.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-7.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 88553,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Team-8.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Team-8.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 66827,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-38.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-38-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 82292,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-39.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-39-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                }
+            ],
+            "filesize": 68080,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-13.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-13-800x1075.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 14804,
+            "dimensions": [
+                953,
+                1280
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-14.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-14.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/reboost-header-offcanvas.json",
+                    "name": "Reboost - Header offcanvas"
+                }
+            ],
+            "filesize": 1362,
+            "dimensions": [
+                188,
+                188
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-15.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-15.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 1710,
+            "dimensions": [
+                254,
+                254
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "icon-9.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 834,
+            "dimensions": [
+                132,
+                132
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-40.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-40-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                }
+            ],
+            "filesize": 81602,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-41.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-41-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 102646,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "img-16.webp",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/img-16-800x533.webp",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 53050,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TKAQ2786GS"
+        },
+        {
+            "filename": "Big-Logo.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Big-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/reboost-footer.json",
+                    "name": "Reboost - Footer"
+                },
+                {
+                    "source": "templates\/reboost-header.json",
+                    "name": "Reboost - Header"
+                },
+                {
+                    "source": "templates\/reboost-header-offcanvas.json",
+                    "name": "Reboost - Header offcanvas"
+                }
+            ],
+            "filesize": 16895,
+            "dimensions": [
+                600,
+                150
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Outline-Img-2.png",
+            "thumbnail_url": "https:\/\/kits.rometheme.net\/reboost\/wp-content\/uploads\/sites\/41\/2025\/04\/Outline-Img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/reboost-footer.json",
+                    "name": "Reboost - Footer"
+                }
+            ],
+            "filesize": 28345,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}

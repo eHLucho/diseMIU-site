@@ -1,0 +1,209 @@
+{
+    "version": "0.4",
+    "title": "Reboost &#8211; Contact Form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-contact",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "17cff9e4",
+            "settings": {
+                "flex_direction": "row",
+                "content_width": "full",
+                "flex_justify_content": "space-between",
+                "flex_wrap": "wrap",
+                "_title": "Contact form"
+            },
+            "elements": [
+                {
+                    "id": "4bc8d834",
+                    "settings": {
+                        "show_label": "",
+                        "label_text": "Text",
+                        "name_input": "rform-text",
+                        "placeholder_input": "Your Name",
+                        "warning_message": "This field is required",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "warning_typography_typography": "globals\/typography?id=fa69142",
+                            "warning_color": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2409d8de",
+                    "settings": {
+                        "show_label": "",
+                        "label_text": "Email",
+                        "name_input": "rform-email",
+                        "placeholder_input": "Your E-mail",
+                        "warning_message": "This field is required",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "warning_color": "globals\/colors?id=accent",
+                            "warning_typography_typography": "globals\/typography?id=fa69142"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "email",
+                    "elType": "widget"
+                },
+                {
+                    "id": "17c84706",
+                    "settings": {
+                        "show_label": "",
+                        "label_text": "Phone Number",
+                        "name_input": "rform-phone",
+                        "placeholder_input": "Your Phone Number",
+                        "warning_message": "This field is required",
+                        "background_country_list_background": "classic",
+                        "background_country_list_hover_background": "classic",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 48,
+                            "sizes": []
+                        },
+                        "_element_custom_width_mobile": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "background_country_list_color": "globals\/colors?id=f682099",
+                            "country_list_color": "globals\/colors?id=text",
+                            "background_country_list_hover_color": "globals\/colors?id=1551569",
+                            "country_list_color_hover": "globals\/colors?id=text",
+                            "warning_color": "globals\/colors?id=accent",
+                            "warning_typography_typography": "globals\/typography?id=fa69142"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rform_phone",
+                    "elType": "widget"
+                },
+                {
+                    "id": "24ee9791",
+                    "settings": {
+                        "show_label": "",
+                        "label_text": "Text",
+                        "name_input": "rform-text",
+                        "placeholder_input": "Your Subject",
+                        "warning_message": "This field is required",
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "warning_typography_typography": "globals\/typography?id=fa69142",
+                            "warning_color": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text",
+                    "elType": "widget"
+                },
+                {
+                    "id": "5f64a60a",
+                    "settings": {
+                        "show_label": "",
+                        "label_text": "Message",
+                        "name_input": "rform-message ",
+                        "placeholder_input": "Your Message",
+                        "warning_message": "This field is required",
+                        "input_height": {
+                            "unit": "px",
+                            "size": 150,
+                            "sizes": []
+                        },
+                        "input_border_radius": {
+                            "unit": "px",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "input_border_radius_tablet": {
+                            "unit": "px",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "input_border_radius_mobile": {
+                            "unit": "px",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "_element_width": "initial",
+                        "_element_custom_width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "warning_typography_typography": "globals\/typography?id=fa69142",
+                            "warning_color": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "text-area",
+                    "elType": "widget"
+                },
+                {
+                    "id": "6246c7a8",
+                    "settings": {
+                        "button_text": "Send Message",
+                        "btn_fullwidth": "yes",
+                        "btn_icon": {
+                            "value": "rtmicon rtmicon-arrow-up-right",
+                            "library": "rtmicons"
+                        },
+                        "icon_position": "after",
+                        "_element_width": "inherit"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "rform_button_submit",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

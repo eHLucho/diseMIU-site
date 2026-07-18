@@ -1,0 +1,46 @@
+{
+  "duplicator": {
+    "name": "Duplicator",
+    "icon": "rtmicon rtmicon-duplicator",
+    "classname": "RkitDuplicator",
+    "status": true,
+    "type": "free",
+    "category": "extension",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/how-to-use-ezd_ampersand-customize-duplicator/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/"
+  },
+  "glasseffect": {
+    "name": "Glass Effect",
+    "icon": "rtmicon rtmicon-glass-effect",
+    "classname": "BlurEffects",
+    "status": true,
+    "type": "free",
+    "category": "extension",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/how-to-use-ezd_ampersand-customize-glassmorphism/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/"
+  },
+  "tooltip": {
+    "name": "Tooltip",
+    "icon": "rtmicon rtmicon-tooltip",
+    "classname": "RkitToolTips",
+    "status": true,
+    "type": "free",
+    "category": "extension",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/how-to-use-ezd_ampersand-customize-rtmkit-tooltips/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/"
+  },
+  "wrapperlink": {
+    "name": "Wrapper Link",
+    "icon": "rtmicon rtmicon-wrapper-link",
+    "classname": "RkitWrapperLink",
+    "status": true,
+    "type": "free",
+    "category": "extension",
+    "is_new": true,
+    "docsURL": "https://support.rometheme.net/docs/romethemekit/rtm-extensions/how-to-use-ezd_ampersand-customize-rtmkit-wrapper-link/",
+    "previewURL": "https://rometheme.net/plugins/rtmkit/"
+  }
+}

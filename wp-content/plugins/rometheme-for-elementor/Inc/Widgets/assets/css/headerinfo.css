@@ -1,0 +1,14 @@
+.rkit-headerinfo {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.rkit-headerinfo-icon {
+  display: flex;
+}
+
+.rkit-list-headerinfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

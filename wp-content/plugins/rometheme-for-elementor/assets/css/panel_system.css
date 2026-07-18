@@ -1,0 +1,88 @@
+.toplevel_page_rtmkit
+  > ul.wp-submenu
+  a[href="admin.php?page=rtmkit-upgrade-to-pro"] {
+  background-color: #00cea6 !important;
+  color: #000 !important;
+  font-weight: 600;
+  padding: 10px 16px !important;
+  margin: 5px 6px !important;
+  border-radius: 0.5rem;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.toplevel_page_rtmkit
+  > ul.wp-submenu
+  a[href="admin.php?page=rtmkit-upgrade-to-pro"]:hover {
+  background-color: #00cea6 !important;
+  filter: brightness(0.9);
+  color: #000 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar > .ab-item span::before {
+  content: "";
+  background-image: url("https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/images/romethemekit.svg") !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 3px;
+  vertical-align: middle;
+}
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar #wp-admin-bar-rtmkit_divider {
+  border-bottom: 1px solid;
+  height: 0;
+  margin-block: 3px;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .ab-submenu {
+  padding-bottom: 0px;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-upgrade {
+  display: flex;
+  margin-top: 10px;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-upgrade .ab-item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00cea6;
+  color: #000;
+  font-weight: 600;
+  padding: 5px 10px;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-upgrade .ab-item:hover {
+  background-color: #00cea5e1;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-adminbar-divider {
+  border-bottom: 1px solid #b0b0b02b;
+  height: 0;
+  margin-block: 5px;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-rate-us .rate-us-title {
+  display: flex;
+  align-items: center;
+  gap: 0.325rem;
+  width: 100%;
+  height: 100%;
+}
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-rate-us .rate-icon {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+#wpadminbar li#wp-admin-bar-rtmkit_menu_bar .rtmkit-rate-us .rate-icon svg {
+  fill: #00cea6;
+  width: 14px;
+}

@@ -1,0 +1,6 @@
+.plyr button {
+  backdrop-filter: blur(10px);
+  background: transparent;
+  border: none;
+  padding: 16px;
+}

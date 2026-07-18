@@ -1,0 +1,20 @@
+.elementor-element.e-flex.rtmkit-blur-effect-enabled::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: inherit;
+  border-radius: inherit;
+  backdrop-filter: blur(5px);
+  border: none;
+  /* z-index: -1; */
+  /* opacity: 0.5; */
+}
+
+.rtmkit-blur-effect-enabled {
+  background-color: inherit;
+  /* backdrop-filter: blur(5px); */
+  /* border-radius: inherit; */
+}

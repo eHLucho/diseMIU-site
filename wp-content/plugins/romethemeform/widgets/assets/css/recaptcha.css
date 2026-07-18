@@ -1,0 +1,23 @@
+.rform-recaptcha-wrapper .rform-error {
+    display: none;
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    
+}
+
+.rform-recaptcha-wrapper[aria-invalid="true"] .rform-error {
+    display: block;
+}
+
+.rform-recaptcha-placeholder {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    background-color: #FFFFC5;
+    border: 1px solid #E0E0E0;
+    text-align: center;
+    /* border-radius: 10px; */
+    color: #61614B;
+    font-size: 14px;
+}

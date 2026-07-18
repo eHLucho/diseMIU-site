@@ -1,0 +1,235 @@
+#custom-admin-drawer {
+  position: fixed;
+  top: 32px;
+  right: -400px;
+  width: 400px;
+  height: calc(100% - 32px);
+  background: #1e2124;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+  transition: right 0.3s ease;
+  z-index: 9999;
+  overflow-y: auto;
+  font-size: 13px;
+}
+
+.custom-drawer-trigger span::before {
+  content: "";
+  background-image: url("https://https://github.com/eHLucho/diseMIU-site.git/wp-content/plugins/rometheme-for-elementor/assets/images/romethemekit.svg") !important;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 3px;
+  vertical-align: middle;
+}
+
+#custom-admin-drawer h4 {
+  font-size: 13px;
+  margin: 1.33em 0;
+}
+
+#custom-admin-drawer.open {
+  right: 0;
+}
+
+#custom-admin-drawer .drawer-header {
+  padding: 24px;
+  font-weight: bold;
+  color: #fff;
+  border-bottom: 1px solid #535353ff;
+  background-color: #1e2124;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+#custom-admin-drawer .drawer-content {
+  padding: 24px;
+  color: #fff;
+}
+
+#custom-admin-drawer .drawer-content .content-info:not(:last-child) {
+  border-bottom: 1px solid #535353ff;
+}
+
+#custom-drawer-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: none;
+  z-index: 9998;
+}
+
+#custom-drawer-overlay.active {
+  display: block;
+}
+
+#custom-admin-drawer .drawer-content ul {
+  list-style: disc;
+  padding-left: 0;
+}
+
+#custom-admin-drawer .drawer-content ul li {
+  margin-left: 1.5rem;
+}
+
+#custom-admin-drawer .drawer-content ul li a {
+  color: #fff;
+}
+
+#custom-admin-drawer .link-btn-accent {
+  background-color: #00cea6;
+  color: #000 !important;
+  border: solid 1px transparent;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+#custom-admin-drawer .link-btn-accent:hover {
+  /* background-color: #00b38f; */
+  box-shadow: 0px 0px 20px rgba(0, 206, 166, 0.5);
+  border: 1px solid rgba(134, 254, 210, 0.58);
+  color: #000 !important;
+}
+
+#custom-admin-drawer .featured-image {
+  position: relative;
+  display: inline-block;
+}
+
+#custom-admin-drawer .featured-image img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  aspect-ratio: auto 1;
+  border-radius: 8px;
+}
+
+#custom-admin-drawer .news-category {
+  display: inline-block;
+  background-color: #00cea6;
+  color: #000;
+  padding: 4px 16px;
+  border-radius: 40px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#custom-admin-drawer .news-description {
+  margin-top: 10px;
+}
+
+#custom-admin-drawer .news-item:not(:last-child) {
+  border-bottom: 1px solid #535353ff;
+  margin-bottom: 32px;
+  padding-bottom: 32px;
+}
+
+#custom-admin-drawer h1 , #custom-admin-drawer h2 , #custom-admin-drawer h3 , #custom-admin-drawer h4 , #custom-admin-drawer h5 , #custom-admin-drawer h6 {
+  margin: 0;
+}
+
+#custom-admin-drawer .news-title {
+  font-size: 16px;
+  margin-bottom: 24px;
+  color: #fff;
+}
+
+#custom-admin-drawer .read-more {
+  display: inline-block;
+  color: #00cea6;
+}
+
+#custom-admin-drawer .upgrade-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background-color: #00cea6;
+  color: #000 !important;
+  border: solid 1px transparent;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+/* Skeleton loading */
+.rtmkit-drawer-loading {
+  padding: 16px;
+}
+
+.rtmkit-skeleton-item {
+  margin-bottom: 24px;
+}
+
+.rtmkit-skeleton-title,
+.rtmkit-skeleton-image,
+.rtmkit-skeleton-text {
+  background: linear-gradient(90deg, #424242b2 25%, #747474b2 50%, #424242b2 75%);
+  background-size: 200% 100%;
+  animation: rtmkit-skeleton-pulse 1.4s ease-in-out infinite;
+  border-radius: 4px;
+}
+
+.rtmkit-skeleton-title {
+  height: 18px;
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+.rtmkit-skeleton-image {
+  height: 120px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.rtmkit-skeleton-text {
+  height: 12px;
+  width: 100%;
+  margin-bottom: 6px;
+}
+
+.rtmkit-skeleton-text.short {
+  width: 50%;
+}
+
+@keyframes rtmkit-skeleton-pulse {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* Error state */
+.rtmkit-drawer-error {
+  padding: 24px 16px;
+  text-align: center;
+  color: #646970;
+}
+
+.rtmkit-drawer-error p {
+  margin-bottom: 12px;
+}
+
+.rtmkit-drawer-retry {
+  background: #2271b1;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.rtmkit-drawer-retry:hover {
+  background: #135e96;
+}

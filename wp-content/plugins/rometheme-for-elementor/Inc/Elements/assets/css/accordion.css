@@ -1,0 +1,101 @@
+.rkit-accordion {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.rkit-accordion-header {
+    padding: 10px;
+    background-color: #ebebeb;
+    color: #000000;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: center ;
+    transition: all 0.5s;
+    position: relative;
+    overflow: hidden;
+}
+
+.rkit-accordion-header .rkit-accordion-header-text .header-subtitle {
+    padding-left: 20px;
+}
+
+.rkit-accordion-header .rkit-accordion-header-text {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.rkit-accordion-header .rkit-left-header-icon {
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    margin: -10px;
+    padding: 10px 15px 10px 15px;
+    background: #d5d5d5;
+}
+
+.rkit-accordion-header .accordion_header_icon {
+    font-size: 24px;
+}
+
+.rkit-accordion-header:hover {
+    z-index: 2;
+}
+
+.rkit-accordion-item.open .rkit-accordion__title{
+    color: rgb(1, 57, 242);
+}
+
+.rkit-accordion-item .rkit-accordion__title:is(h1, h2, h3, h4, h5, h6) {
+    margin: 0;
+}
+
+.rkit-accordion-content {
+    max-height: 0vmax;
+    height: auto;
+    visibility: hidden;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.rkit-accordion__icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 20px 0px 20px;
+    transition: all 0.5s;
+    flex-shrink: 0;
+}
+
+.rkit-accordion__title{
+    width:100%;
+    text-align: left;
+    padding: 0px 0px 0px 20px;
+    transition: all 0.5s;
+}
+
+.rkit-accordion__content{
+    padding: 30px 30px 30px 30px;
+    text-align: left;
+}
+
+.rkit-accordion-item.open .rkit-accordion-content {
+    visibility: visible;
+    max-height: 100vmax;
+    transition: all 1.5s;
+}
+
+
+.rkit-accordion-item .rkit-accordion__icon .icon_open {
+    display: none;
+}
+
+.rkit-accordion-item.open .rkit-accordion__icon .icon_close {
+    display: none;
+}
+
+.rkit-accordion-item.open .rkit-accordion__icon .icon_open {
+    display: block;
+}
