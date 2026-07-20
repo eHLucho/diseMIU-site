@@ -1,10 +1,10 @@
-@font-face {
+@@font-face {
   font-family: 'rtmicon-regular';
-  src:  url('./wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.eot?u6xsrx');
-  src:  url('./wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.eot?u6xsrx#iefix') format('embedded-opentype'),
-    url('./wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.ttf?u6xsrx') format('truetype'),
-    url('./wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.woff?u6xsrx') format('woff'),
-    url('./wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.svg?u6xsrx#rtmicon-regular') format('svg');
+  src: url('/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicon-regular.eot?554c36');
+  src: url('/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicon-regular.eot?554c36#iefix') format('embedded-opentype'),
+       url('/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicon-regular.ttf?554c36') format('truetype'),
+       url('/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicon-regular.woff?554c36') format('woff'),
+       url('/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicon-regular.svg?554c36#rtmicon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
