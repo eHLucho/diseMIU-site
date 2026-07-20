@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'rtm-icon-woo';
-  src:  url('https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.eot?k5swzu');
-  src:  url('https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.eot?k5swzu#iefix') format('embedded-opentype'),
-    url('https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.ttf?k5swzu') format('truetype'),
-    url('https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.woff?k5swzu') format('woff'),
-    url('https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.svg?k5swzu#rtm-icon-woo') format('svg');
+  src:  url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.eot?k5swzu');
+  src:  url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.eot?k5swzu#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.ttf?k5swzu') format('truetype'),
+    url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.woff?k5swzu') format('woff'),
+    url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtm-icon-woo/rtm-icon-woo.svg?k5swzu#rtm-icon-woo') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

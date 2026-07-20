@@ -1,11 +1,11 @@
 @font-face {
   font-family: "rtmicon-thin";
-  src: url("https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.eot?qy76ig");
-  src: url("https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.eot?qy76ig#iefix")
+  src: url("/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.eot?qy76ig");
+  src: url("/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.eot?qy76ig#iefix")
       format("embedded-opentype"),
-    url("https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.ttf?qy76ig") format("truetype"),
-    url("https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.woff?qy76ig") format("woff"),
-    url("https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.svg?qy76ig#rtmicon-thin") format("svg");
+    url("/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.ttf?qy76ig") format("truetype"),
+    url("/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.woff?qy76ig") format("woff"),
+    url("/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-thin.svg?qy76ig#rtmicon-thin") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;

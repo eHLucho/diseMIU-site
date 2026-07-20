@@ -14,7 +14,7 @@
 
 .custom-drawer-trigger span::before {
   content: "";
-  background-image: url("https://https://ehlucho.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/images/romethemekit.svg") !important;
+  background-image: url("/wp-content/plugins/rometheme-for-elementor/assets/images/romethemekit.svg") !important;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom center;
