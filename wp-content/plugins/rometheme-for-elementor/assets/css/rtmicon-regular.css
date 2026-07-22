@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'rtmicon-regular';
-  src:  url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.eot?u6xsrx');
-  src:  url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.eot?u6xsrx#iefix') format('embedded-opentype'),
-    url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.ttf?u6xsrx') format('truetype'),
-    url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.woff?u6xsrx') format('woff'),
-    url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.svg?u6xsrx#rtmicon-regular') format('svg');
+  src:  url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.eot?u6xsrx');
+  src:  url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.eot?u6xsrx#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.ttf?u6xsrx') format('truetype'),
+    url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.woff?u6xsrx') format('woff'),
+    url('/wp-content/plugins/rometheme-for-elementor/assets/fonts/rtmicons/rtmicon-regular.svg?u6xsrx#rtmicon-regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

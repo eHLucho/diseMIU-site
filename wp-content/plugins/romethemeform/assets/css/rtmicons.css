@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'rtmicon';
-  src:  url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/romethemeform/assets/fonts/rtmicon.eot?554c36');
-  src:  url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/romethemeform/assets/fonts/rtmicon.eot?554c36#iefix') format('embedded-opentype'),
-    url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/romethemeform/assets/fonts/rtmicon.ttf?554c36') format('truetype'),
-    url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/romethemeform/assets/fonts/rtmicon.woff?554c36') format('woff'),
-    url('https://https://disemiu.github.io/diseMIU-site/wp-content/plugins/romethemeform/assets/fonts/rtmicon.svg?554c36#rtmicon') format('svg');
+  src:  url('/wp-content/plugins/romethemeform/assets/fonts/rtmicon.eot?554c36');
+  src:  url('/wp-content/plugins/romethemeform/assets/fonts/rtmicon.eot?554c36#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/romethemeform/assets/fonts/rtmicon.ttf?554c36') format('truetype'),
+    url('/wp-content/plugins/romethemeform/assets/fonts/rtmicon.woff?554c36') format('woff'),
+    url('/wp-content/plugins/romethemeform/assets/fonts/rtmicon.svg?554c36#rtmicon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
